@@ -1,0 +1,17 @@
+{
+  "name": "@shadowskd/shadowhandler",
+  "version": "1.0.0",
+  "description": "Demo package",
+  "main": "handler.js",
+  "keywords": [
+    "command-handler",
+    "Commando",
+    "SKDCommand",
+    "ShadowHandler",
+    "shadow",
+    "handler"
+  ],
+  "author": "ShadowSKD#6322",
+  "license": "ISC"
+}
+
